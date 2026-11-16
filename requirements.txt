@@ -26,4 +26,4 @@ requests==2.32.3
 resolvelib==1.0.1
 rsa==4.9.1
 uritemplate==4.1.1
-urllib3==2.4.0
+urllib3==2.8.0
